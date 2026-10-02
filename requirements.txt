@@ -1,0 +1,2 @@
+aiohttp==3.14.3
+# Indicator and exchange dependencies are shared with D:\TG BOTE\requirements.txt.
